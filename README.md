@@ -26,6 +26,8 @@ To reproduce the best result from the paper, run the following command:
 python train_all.py exp_name --dataset DR --data_dir /dataset/path --algorithm MIRO --lr 5e-5 --ld 1.0 --swad True --batch_size 32
 ```
 
+The weights of the trained models are available [here](https://drive.google.com/drive/folders/1XPa9UHlCPxAHm-oFw6ey6gLKlWC9er_D?usp=sharing)
+
 # References
 1. Gulrajani, Ishaan, and David Lopez-Paz. "In search of lost domain generalization." arXiv preprint arXiv:2007.01434 (2020).
 2. Cha, Junbum, et al. "Domain generalization by mutual-information regularization with pre-trained models." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
